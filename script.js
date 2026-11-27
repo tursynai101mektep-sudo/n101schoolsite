@@ -71,6 +71,16 @@ const BOOKS = [
     link: "https://drive.google.com/file/d/1twTZgqcbY6-Y8MlTD5_UwWX0raQ8vwUt/view?usp=sharing"
   },
   {
+    title: "Ұшқан ұя",
+    author: "Бауыржан Момышұлы",
+    cat: "kz",
+    color: "#5F4526",
+    desc: "Автордың балалық шағы, туған ауылы, әке-шешесі мен қазақ халқының салт-дәстүрі, тәрбиесі туралы мемуарлық повесть. Ұрпаққа аманат болар ұлттық құндылықтар шынайы баяндалған.",
+    tags: ["мемуар", "балалық шақ", "тәрбие", "тарих", "салт-дәстүр", "отбасы", "қазақ әдебиеті"],
+    img: "https://cdn.insales-shop.ru/images/products/1/4265/2299924649/Momyshuly.png",
+    link: "https://kaspi.kz/shop/p/bauyrzhan-momysh-ly-sh-an-ja-140001987/"
+  },
+  {
     title: "1984",
     author: "Джордж Оруэлл",
     cat: "world",
